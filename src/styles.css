@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.link {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: black;
+}
+
+.active-link {
+  color: green;
+  font-weight: 600;
+}
+
+.img {
+  width: 100%;
+}
+
+.card {
+  border: 1px solid black;
+  max-width: 15rem;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+}
+
+.description-card {
+  margin: 1rem auto;
+  width: 15rem;
+}
